@@ -5,4 +5,4 @@ date: 2022-07-16
 categories: comics
 ---
 
-![name](/images/comics/great_opportunity_spam.PNG)
+![name](./images/comics/great_opportunity_spam.PNG)
